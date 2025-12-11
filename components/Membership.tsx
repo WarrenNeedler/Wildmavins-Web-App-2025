@@ -103,10 +103,9 @@ const Membership: React.FC = () => {
                         onClick={() => handleCardClick(point.id)}
                         animate={activeCard === point.id ? "active" : "rest"}
                     >
-                        {/* Top Number Indicator */}
+                        {/* Top Number Indicator - DOT REMOVED HERE */}
                         <div className="absolute top-8 left-8 flex items-center gap-2">
                             <span className="font-elegant font-bold text-xs text-mavins-silver group-hover:text-mavins-neon transition-colors duration-300">/{point.id}</span>
-                            <div className="w-1.5 h-1.5 rounded-full bg-mavins-gray group-hover:bg-mavins-neon transition-colors duration-300"></div>
                         </div>
 
                         {/* Mobile Tap Indicator */}
