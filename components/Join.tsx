@@ -72,7 +72,7 @@ const Join: React.FC<JoinProps> = ({ onApply }) => {
             </h2>
             
             <p className="font-serif text-xl md:text-3xl text-mavins-silver mb-16 max-w-3xl mx-auto leading-relaxed">
-                To become an owner at Wildmavins you are either nominated by an existing member or you may apply here.
+                To become a member at Wildmavins you are either nominated by an existing member or you may apply here.
             </p>
 
             <button 

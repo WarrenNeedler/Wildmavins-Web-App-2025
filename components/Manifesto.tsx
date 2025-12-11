@@ -36,7 +36,7 @@ const Manifesto: React.FC = () => {
                 </h2>
                 
                 <div className="font-serif text-lg md:text-2xl text-mavins-white leading-snug max-w-3xl space-y-3 opacity-90">
-                    <p>Those who devote ten thousand hours to a craft.</p>
+                    <p>Those who devote 10,000 hours to a craft.</p>
                     <p>Those who protect the integrity of their work, even when the world wants it faster and cheaper.</p>
                     <p>Those who make, shape, and curate culture.</p>
                 </div>
