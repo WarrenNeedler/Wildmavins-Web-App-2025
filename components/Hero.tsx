@@ -61,7 +61,7 @@ const Hero: React.FC<HeroProps> = ({ onApply }) => {
          />
 
          {/* Animated Logo */}
-         <div className="w-full max-w-5xl relative px-4 md:px-0">
+         <div className="w-full max-w-3xl relative px-4 md:px-0">
              <motion.img
                 src={IMAGES.hero.logo}
                 alt="WILDMAVINS"

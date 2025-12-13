@@ -15,7 +15,7 @@ const Footer: React.FC<FooterProps> = ({ onOpenTerms, onOpenPrivacy }) => {
             <img 
                 src={IMAGES.hero.logo} 
                 alt="WILDMAVINS" 
-                className="w-full max-w-sm mb-8"
+                className="w-full max-w-[18rem] mb-8"
                 style={{ filter: 'brightness(0) invert(1)' }} // Forces image to white
             />
          </div>
@@ -27,6 +27,9 @@ const Footer: React.FC<FooterProps> = ({ onOpenTerms, onOpenPrivacy }) => {
             </a>
             <a href="https://x.com/wildmavins" target="_blank" rel="noopener noreferrer" className="font-elegant text-xl text-mavins-white hover:text-mavins-neon transition-colors uppercase font-bold">
                 Twitter / X
+            </a>
+            <a href="https://www.linkedin.com/company/wildmavins/" target="_blank" rel="noopener noreferrer" className="font-elegant text-xl text-mavins-white hover:text-mavins-neon transition-colors uppercase font-bold">
+                LinkedIn
             </a>
          </div>
 
