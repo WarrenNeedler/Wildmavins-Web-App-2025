@@ -25,12 +25,12 @@ const Membership: React.FC = () => {
     {
       id: "02",
       title: "SCARCITY",
-      subtitle: "1,000 FOUNDERS SEATS",
+      subtitle: "LIMITED FOUNDERS SEATS",
       desc: "Once they are gone, the only way will be to acquire one from an existing Founder."
     },
     {
       id: "03",
-      title: "ACCESS",
+      title: "COMMUNITY",
       subtitle: "UNLOCK A NEW WORLD",
       desc: "Ownership unlocks a private network of global enthusiasts, bespoke collections, and off-market opportunities."
     }

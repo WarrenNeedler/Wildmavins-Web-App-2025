@@ -94,13 +94,13 @@ const Join: React.FC<JoinProps> = ({ onApply }) => {
                 />
                 <FlipCard 
                     title="PRIVATE SALE" 
-                    subtitle="(401-1000)" 
+                    subtitle="(COMING SOON)" 
                     detail="PRICE TBD" 
                 />
                 <FlipCard 
                     title="LIMITED" 
                     subtitle="(DIGITAL ASSET)"
-                    detail="1000 TOTAL EVER" 
+                    detail="FOUNDERS & COLLECTORS" 
                 />
             </div>
         </div>
